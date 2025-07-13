@@ -444,7 +444,6 @@ section {
 
 .footer-container {
   display: flex;
-  gap: 120px;
   flex-wrap: wrap;
   align-items: baseline;
   justify-content: flex-start;
